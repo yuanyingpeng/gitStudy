@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 hallo world yuanyingpeng nihao  在干嘛  我在吃饭   我吃完了   好好吃  吃的是好吃的   
 你在写小工具吗？
 是的，我在用代码写我喜欢的小玩具
 但是写代码好麻烦呀
 你在干什么？？？？
+=======
+hello world git
+>>>>>>> hell
